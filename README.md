@@ -1,5 +1,5 @@
 # Fugacity
-Calculate compressibility factor Z, fugacity f, Enthalpy H, and entropy S of any real fluids (with known Peng-Robinson parameters)
+
 Peng-Robinson paramenters include critical temperature Tc, critical pressure Pc, and accentric factor omega(w). This project was initally developed to calculate butane properties, so omega is already given as butane's. 
 
 This is an on-going project. The end goal of this project is, besides calculating critical properties, determining the equalibrium curve (phase-transition line) on P-T diagram between vapor, liquid, and solid. 
